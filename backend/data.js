@@ -5,7 +5,7 @@ const data = {
     {
       name: 'Semaa',
       email: 'admin@apothecary2go.com',
-      password: bcrypt.hashSync('1234', 8),
+      password: bcrypt.hashSync('apothecary2go2021', 8),
       isAdmin: true,
       isSeller: true,
       seller: {
