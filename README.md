@@ -23,7 +23,6 @@
 $ git clone git@github.com:coder-chick/Apothecary2GO.git
 $ cd Apothecary2GO
 ```
-
 ### 2. Setup MongoDB
 
 - Local MongoDB
@@ -43,7 +42,6 @@ $ npm install
 $ npm install nodemon
 $ nodemon server.js
 ```
-
 ### 4. Run Frontend
 
 ```
@@ -52,7 +50,6 @@ $ cd frontend
 $ npm install
 $ nodemon start
 ```
-
 ### 5. Create user account
 
 - Create a user account to sign in
