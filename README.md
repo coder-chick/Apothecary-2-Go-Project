@@ -1,5 +1,6 @@
 # Apothecary-2-Go-Project
-# Apothecary2Go - EPharmacy Inventory Web App
+
+## Apothecary2Go - EPharmacy Inventory Web App
 
 ## Demo Website
 
