@@ -61,4 +61,4 @@ $ nodemon start
 - Enter admin email and password and click signin
 
 ### Author: Semaa Amin
-Inspired by Udemy Amazona
+Inspired by [Udemy](https://www.udemy.com/) [Amazona](https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/)
