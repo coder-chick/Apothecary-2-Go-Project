@@ -61,4 +61,4 @@ $ nodemon start
 - Enter admin email and password and click signin
 
 ### Author: Semaa Amin
-Inspired by Amazona
+Inspired by Udemy Amazona
