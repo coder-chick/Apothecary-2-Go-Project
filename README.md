@@ -1,64 +1,109 @@
-# Apothecary-2-Go-Project
+# 🏥 Apothecary-2-Go-Project
 
-## Apothecary2Go - EPharmacy Inventory Web App
+Welcome to **Apothecary2Go**, an ePharmacy Inventory Web App designed to simplify and streamline pharmaceutical inventory management! 💊💻
 
-## Demo Website
+---
 
-- 👉 Heroku : [https://northeastern-apothecary2go.herokuapp.com/](https://northeastern-apothecary2go.herokuapp.com/)
+## **✨ Key Features**
 
-## What the project includes:
+- **Frontend**: Built with React for interactive and dynamic user interfaces 🖥️.
+- **State Management**: Powered by Redux for efficient state handling ⚙️.
+- **Backend**: Node.js and Express for a robust and scalable API 🚀.
+- **Database**: MongoDB for flexible and powerful data storage 🗃️.
+- **Deployment**: Hosted on Heroku for easy access 🌐.
 
-- HTML5 and CSS3
-- React: Components, Props, Events, Hooks, Router, Axios
-- Redux: Store, Reducers, Actions
-- Node & Express: Web API, Body Parser
-- MongoDB: Mongoose, Aggregation
-- Development: ESLint, Babel, Git, Github,
-- Deployment: Heroku
+---
 
-## To Run Locally:
+## **🎯 Demo Website**
 
-### 1. Clone repo
+👉 [Apothecary2Go on Heroku](https://northeastern-apothecary2go.herokuapp.com/)
 
-```
+---
+
+## **🛠️ Technologies Used**
+
+### Frontend
+- HTML5 and CSS3 ✨
+- React: Components, Props, Events, Hooks, Router, Axios 🧩
+- Redux: Store, Reducers, Actions ⚙️
+
+### Backend
+- Node & Express: Web API, Body Parser 🌐
+- MongoDB: Mongoose, Aggregation 📂
+
+### Development
+- ESLint, Babel, Git, GitHub 🛠️
+
+### Deployment
+- Heroku 🚀
+
+---
+
+## **📚 To Run Locally**
+
+### 1. Clone the Repository
+
+```bash
 $ git clone git@github.com:coder-chick/Apothecary2GO.git
 $ cd Apothecary2GO
 ```
+
 ### 2. Setup MongoDB
 
-- Local MongoDB
-  - Install it from [here](https://www.mongodb.com/try/download/community)
-  - Create .env file in root folder
-  - Set MONGODB_URL=mongodb://localhost/apothecary2go
-- Atlas Cloud MongoDB
-  - Create database at [https://cloud.mongodb.com](https://cloud.mongodb.com)
-  - Create .env file in root folder
-  - Set MONGODB_URL=mongodb+srv://your-db-connection
+- **Local MongoDB**
+  - Install MongoDB from [here](https://www.mongodb.com/try/download/community).
+  - Create a `.env` file in the root folder and set:
+    ```env
+    MONGODB_URL=mongodb://localhost/apothecary2go
+    ```
+- **Atlas Cloud MongoDB**
+  - Create a database at [MongoDB Atlas](https://cloud.mongodb.com).
+  - Create a `.env` file in the root folder and set:
+    ```env
+    MONGODB_URL=mongodb+srv://your-db-connection
+    ```
 
 ### 3. Run Backend
 
-```
+```bash
 $ cd backend
 $ npm install
 $ npm install nodemon
 $ nodemon server.js
 ```
+
 ### 4. Run Frontend
 
-```
-# open new terminal
+```bash
+# Open a new terminal
 $ cd frontend
 $ npm install
-$ nodemon start
+$ npm start
 ```
-### 5. Create user account
 
-- Create a user account to sign in
+### 5. Create a User Account
+
+- Sign up for a new user account to access the app 🛒.
 
 ### 6. Admin Login
 
-- Includes admin and seller login. Message me to get credentials
-- Enter admin email and password and click signin
+- Includes admin and seller login. Contact [Semaa Amin](mailto:sema.amin9@gmail.com) to get credentials.
+- Enter the admin email and password, then click **Sign In**.
 
-### Author: Semaa Amin
-Inspired by [Udemy](https://www.udemy.com/) [Amazona](https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/)
+---
+
+## **🎨 Inspired By**
+
+This project was inspired by the [Udemy](https://www.udemy.com/) course on building an eCommerce platform similar to Amazon:
+
+👉 [Amazona on Udemy](https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/)
+
+---
+
+## **💡 Author**
+
+**Semaa Amin**  
+Passionate about creating impactful and user-friendly web applications! Feel free to reach out for collaboration or feedback. ✨
+
+📧 [Email](mailto:sema.amin9@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/semaa-amin/)  
